@@ -1,5 +1,3 @@
-Certainly! Here's a README file for your Snake game project:
-
 ---
 
 # Snake Game
@@ -15,7 +13,8 @@ This is a simple Snake game implemented in Python using the Turtle graphics libr
 
 ## Screenshots
 Here is a screenshot of the Snake game:
-![Snake Game Screenshot](screenshots/snake_game.png)
+![Screenshot 2024-03-17 at 9 22 07 PM](https://github.com/Keshav-1803/Snake_Game/assets/151384251/5c8f4399-ea78-4e47-bc36-9abf7c845baa)
+
 
 ## How to Play
 1. Run the `snake_game.py` file using Python:
